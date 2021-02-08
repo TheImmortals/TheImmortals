@@ -5,7 +5,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/760391930877837312.png)
 
-Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India.
+Hey, I'm Arjun Kumar Shastri, a Web Developer and a Discord Bot Developer from India.
 
  **Information:**
 
