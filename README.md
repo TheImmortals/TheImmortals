@@ -3,7 +3,7 @@
 <br/>
 
 
-![Discord](https://discord.c99.nl/widget/theme-3/760391930877837312.png)
+![Discord](https://discord.c99.nl/widget/theme-3/816268745336029215.png)
 
 Hey, I'm Arjun Kumar Shastri, a Web Developer and a Discord Bot Developer from India.
 
