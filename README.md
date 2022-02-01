@@ -1,15 +1,15 @@
-### Hi there 👋, I'm Arjun! Can also call me ImmortalsX.
+### Hi there 👋, I'm Arnab! You can also call me Dragon Prince.
 
 <br/>
 
 
 ![Discord](https://discord.c99.nl/widget/theme-3/816268745336029215.png)
 
-Hey, I'm Arjun Kumar, a Web Developer and a Discord Bot Developer from India.
+Hey, I'm  Arnab Barua, a Web Developer and a Discord Bot Developer from India.
 
  **Information:**
 
-- 🔭 I’m currently working on  **Discord Bots and Pokemon Showdown Servers.**
+- 🔭 I’m currently working on  **Discord Bots and Showdown Servers.**
 -  My own profile website: **https://immortalsx.glitch.me/**
 - 🌱 I’m currently learning  **C++ and TS (TypeScript).**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
